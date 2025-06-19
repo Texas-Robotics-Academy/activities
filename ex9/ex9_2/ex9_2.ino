@@ -13,11 +13,9 @@ public:
   }
 
   void printSerial() {
-    
   }
 
 protected:
-  int _adcVals[8];
 };
 
 LineFollowerInterface lineFollowerInterface;
